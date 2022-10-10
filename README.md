@@ -34,3 +34,21 @@ Remover um realizador
 Atualizar ator
 - POST pessoa/realizador/atualizar/:id 
 Atualizar realizador
+
+
+Felicio:
+GET lista/padronizada
+GET lista/personallizada
+
+GET lista/padronizada/:iduser
+GET lista/personallizada/:iduser
+
+
+POST lista/padronizada/criar
+POST lista/personallizada/criar
+
+POST lista/padronizada/:id/apagar
+POST lista/personallizada/:id/apagar
+
+POST lista/padronizada/:id/editar
+POST lista/personallizada/:id/editar
